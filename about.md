@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a machine learning research resident at [Cohere](https://www.secant.ai). My research interests include generative modeling, representation learning, and Bayesian deep learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[milesaturpin@gmail.com](mailto:milesaturpin@gmail.com)
