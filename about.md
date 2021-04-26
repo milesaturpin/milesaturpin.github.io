@@ -14,7 +14,7 @@ Nature Communications, December 2020\
 [[Paper]](https://www.nature.com/articles/s41467-020-19612-0) [[Twitter thread]](https://twitter.com/kesvelt/status/1336500662851526662) [[Code]](https://github.com/altLabs/attrib)
 
 **Machine Learning Prediction of Surgical Intervention for Small Bowel Obstruction**\
-_**Miles Turpin**, Joshua Watson, Matthew Engelhard,  View ORCID ProfileRicardo Henao, David Thompson, Lawrence Carin, Allan Kirk_\
+_**Miles Turpin**, Joshua Watson, Matthew Engelhard, Ricardo Henao, David Thompson, Lawrence Carin, Allan Kirk_\
 medRxiv, April 2021\
 [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.04.13.21255428v1)
 
