@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a machine learning researcher at [Cohere](https://www.cohere.ai). My research interests include language models, meta-learning, and AI alignment.
+I'm a machine learning researcher at [Cohere](https://www.cohere.ai). My research interests include generative models, meta-learning, and AI alignment.
 
 ### Publications & Preprints
 
