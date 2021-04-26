@@ -24,6 +24,6 @@ medRxiv, April 2021\
 
 * _[Probabilistic Wave Function Collapse with Markov Random Fields](https://github.com/milesaturpin/probabilistic-wave-function-collapse)_ (Spring 2020). The [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) (WFC) algorithm from procedural generation synthesizes new images that try to match local relationships between blocks of pixels in a sample image. I realized that this algorithm is essentially an special instance of an undirected graphical model (aka Markov random field). The [Ising model](https://en.wikipedia.org/wiki/Ising_model) is the classic version of a simple MRF. WFC only works for categorical variables with few levels and only captures very local statistics. In this project I worked on a generalized version of the WFC algorithm enabling it to be used for continuous pixel values and modeling slightly longer range dependencies. The MCMC generated [some](https://github.com/milesaturpin/probabilistic-wave-function-collapse/blob/master/presentation/041320_050143.gif) [fun](https://github.com/milesaturpin/probabilistic-wave-function-collapse/blob/master/presentation/k2s1ts10000lb-1ub0.5_041420_124422.gif) [animations](https://github.com/milesaturpin/probabilistic-wave-function-collapse/blob/master/presentation/k18s9ts10000lb0.003ub0.1_041320_203604.gif).
 
-### Contact me
+### Get in touch
 
 [milesaturpin@gmail.com](mailto:milesaturpin@gmail.com)
