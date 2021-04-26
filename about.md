@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a machine learning researcher at [Cohere](https://www.cohere.ai). My research interests include generative models, meta-learning, and AI alignment.
-
+I'm a machine learning researcher at [Cohere](https://www.cohere.ai). My research interests include generative models, meta-learning, and AI alignment. I graduated from Duke in 2020 where I studied Machine Learning and Math. In my free time I like playing around with generative art, creating ambient lighting environments, and becoming one with nature.
+ 
 ### Publications & Preprints
 
 **A machine learning toolkit for genetic engineering attribution to facilitate biosecurity**\
