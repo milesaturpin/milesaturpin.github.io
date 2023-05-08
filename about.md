@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.edu/arg/), where I'm currently working on various topics around large language model safety alignment. Previously, I was an early employee at [Cohere](https://www.cohere.ai), where I am still affiliated. [We're hiring!](https://jobs.lever.co/cohere/). I earned a Bachelor's from Duke University.
+I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.edu/arg/), where I'm currently working on various topics around large language model safety alignment. Previously, I was an early employee at [Cohere](https://www.cohere.ai), where I am still affiliated. [We're hiring!](https://jobs.lever.co/cohere/) I earned a Bachelor's from Duke University.
 
 ### Publications & Preprints
 
-**Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**
-**Miles Turpin**, Julian Michael, Ethan Perez, Samuel R. Bowman
+**Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**\
+**Miles Turpin**, Julian Michael, Ethan Perez, Samuel R. Bowman\
 arXiv, 2020
 
 **A machine learning toolkit for genetic engineering attribution to facilitate biosecurity**\
