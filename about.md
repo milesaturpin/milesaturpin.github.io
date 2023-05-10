@@ -10,7 +10,7 @@ I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.
 
 **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**\
 _**Miles Turpin**, Julian Michael, Ethan Perez, Samuel R. Bowman_\
-arXiv, 2020
+arXiv, 2023
 [[arXiv]](https://arxiv.org/abs/2305.04388)
 
 **A machine learning toolkit for genetic engineering attribution to facilitate biosecurity**\
