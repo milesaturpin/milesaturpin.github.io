@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Unfaithful Explanations in Chain-of-Thought Prompting
+date: June 2, 2023
 ---
 
-## Introduction
-
-I recently released “Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting” with collaborators Julian Michael, Ethan Perez, and Sam Bowman. For a summary of the paper, you can check out this twitter thread. In this post, I briefly elaborate on motivations/implications relevant to alignment and, most importantly, give some examples of future work that might address these problems (See Future Work).
+I recently released “[Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://arxiv.org/abs/2305.04388)” with collaborators Julian Michael, Ethan Perez, and Sam Bowman. For a summary of the paper, you can check out [this twitter thread](https://twitter.com/milesaturpin/status/1656010877269602304). In this post, I briefly elaborate on motivations/implications relevant to alignment and, most importantly, give some examples of future work that might address these problems (See Future Work).
 
 **TLDR:**
 
