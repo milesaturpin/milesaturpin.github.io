@@ -4,14 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.edu/arg/), where I'm currently working on various topics around large language model alignment. Previously, I was an early employee at [Cohere](https://www.cohere.ai), where I am still affiliated. [We're hiring!](https://jobs.lever.co/cohere/) I earned a Bachelor's from Duke University.
+I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.edu/arg/) under Prof. Sam Bowman, where I study questions around risks from advanced language models and how to get more faithful natural language explanations from models. Previously, I was an early employee at [Cohere](https://www.cohere.ai). I earned a Bachelor's from Duke University.
 
 ### Publications & Preprints
 
+**Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought**\
+James Chua, Edward Rees, Hunar Batra, Samuel R. Bowman, Julian Michael, Ethan Perez, **Miles Turpin**\
+arXiv 2024
+[[arXiv]](https://arxiv.org/abs/2403.05518)
+
 **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**\
 _**Miles Turpin**, Julian Michael, Ethan Perez, Samuel R. Bowman_\
-arXiv, 2023
-[[arXiv]](https://arxiv.org/abs/2305.04388)
+NeurIPS 2023
+[[OpenReview]](https://openreview.net/forum?id=bzs4uPLXvi)
 
 **A machine learning toolkit for genetic engineering attribution to facilitate biosecurity**\
 _Ethan C. Alley, **Miles Turpin**, Andrew Bo Liu, Taylor Kulp-McDowall, Jacob Swett, Rey Edison, Stephen E. Von Stetina, George M. Church & Kevin M. Esvelt_\
