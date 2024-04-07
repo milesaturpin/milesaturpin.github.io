@@ -9,13 +9,13 @@ I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.
 ### Publications & Preprints
 
 **Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought**\
-James Chua, Edward Rees, Hunar Batra, Samuel R. Bowman, Julian Michael, Ethan Perez, **Miles Turpin**\
-arXiv 2024
+_James Chua, Edward Rees, Hunar Batra, Samuel R. Bowman, Julian Michael, Ethan Perez, **Miles Turpin**_\
+arXiv 2024\
 [[arXiv]](https://arxiv.org/abs/2403.05518) [[Twitter thread]](https://twitter.com/milesaturpin/status/1767327882978660513) [[Code]](https://github.com/raybears/cot-transparency)
 
 **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**\
 _**Miles Turpin**, Julian Michael, Ethan Perez, Samuel R. Bowman_\
-NeurIPS 2023
+NeurIPS 2023\
 [[OpenReview]](https://openreview.net/forum?id=bzs4uPLXvi) [[Twitter thread]](https://twitter.com/milesaturpin/status/1656010877269602304) [[Code]](https://github.com/milesaturpin/cot-unfaithfulness/)
 
 **A machine learning toolkit for genetic engineering attribution to facilitate biosecurity**\
