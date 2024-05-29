@@ -8,6 +8,12 @@ I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.
 
 ### Publications & Preprints
 
+**Foundational Challenges in Assuring Alignment and Safety of Large Language Models**\
+_Usman Anwar, Abulhair Saparov, Javier Rando, Daniel Paleka, **Miles Turpin**, Peter Hase, Ekdeep Singh Lubana, Erik Jenner, Stephen Casper, ...,  Yejin Choi, David Krueger_\
+arXiv 2024\
+[[arXiv]](https://arxiv.org/abs/2404.09932) [[Website]](https://llm-safety-challenges.github.io/) [[Summary twitter thread]](https://twitter.com/DavidSKrueger/status/1779900511627452467) [[Twitter Thread for Interpretability Section]](https://twitter.com/milesaturpin/status/1779906827624308976) 
+- Co-authored section 3.4 (Tools for Interpreting or Explaining LLM Behavior Are Absent or Lack Faithfulness) with Peter Hase.
+
 **Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought**\
 _James Chua, Edward Rees, Hunar Batra, Samuel R. Bowman, Julian Michael, Ethan Perez, **Miles Turpin**_\
 arXiv 2024\
@@ -27,6 +33,13 @@ Nature Communications, 2020\
 _**Miles Turpin**, Joshua Watson, Matthew Engelhard, Ricardo Henao, David Thompson, Lawrence Carin, Allan Kirk_\
 medRxiv, 2021\
 [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.04.13.21255428v1)
+
+### Blog Posts
+
+**Reward hacking behavior can generalize across tasks**\
+_Kei Nishimura-Gasparian, Isaac Dunn, Henry Sleight, **Miles Turpin**, Evan Hubinger, Carson Denison, Ethan Perez_\
+Alignment Forum, 2024\
+[[Alignment Forum]](https://www.alignmentforum.org/posts/Ge55vxEmKXunFFwoe/reward-hacking-behavior-can-generalize-across-tasks)
 
 ### Past Projects
 
