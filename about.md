@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm a Research Scientist with the [NYU Alignment Research Group](https://wp.nyu.edu/arg/) under Prof. Sam Bowman, where I work on reducing risks from advanced language models and improving the faithfulness of natural language explanations. Previously, I was an early employee at [Cohere](https://www.cohere.ai). I earned a Bachelor's in Machine Learning and Mathematics from Duke University.
+I'm a Research Scientist on the [SEAL team](https://scale.com/blog/safety-evaluations-alignment-lab) at Scale AI, where I work on [faithfulness of model-generated reasoning](https://arxiv.org/abs/2305.04388) and scalable oversight. We're hiring in [scalable oversight](https://scale.com/careers/4529095005), [agent robustness](https://scale.com/careers/4529091005), and [frontier risk evaluations](https://scale.com/careers/4529094005)! Before Scale, I was a Research Scientist in the [NYU Alignment Research Group](https://wp.nyu.edu/arg/) under Prof. Sam Bowman. Before that, I was an early employee at [Cohere](https://www.cohere.ai). I earned a Bachelor's in Machine Learning and Mathematics from Duke University.
 
 ### Publications & Preprints
+
+**Looking Inward: Language Models Can Learn About Themselves by Introspection**\
+_Felix J Binder, James Chua, Tomek Korbak, Henry Sleight, John Hughes, Robert Long, Ethan Perez, **Miles Turpin**, Owain Evans_\
+ICLR 2025\
+[[arXiv]](https://arxiv.org/abs/2410.13787)
 
 **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**\
 _Usman Anwar, Abulhair Saparov, Javier Rando, Daniel Paleka, **Miles Turpin**, Peter Hase, Ekdeep Singh Lubana, Erik Jenner, Stephen Casper, ...,  Yejin Choi, David Krueger_\
