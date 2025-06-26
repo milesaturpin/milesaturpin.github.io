@@ -41,10 +41,17 @@ medRxiv, 2021\
 
 ### Blog Posts
 
+**Do models say what they learn?**\
+_Andy Arditi, Marvin Li, Joe Benton, **Miles Turpin**_\
+LessWrong, 2025\
+[[Link]](https://www.lesswrong.com/posts/abtegBoDfnCzewndm/do-models-say-what-they-learn)
+
+
 **Reward hacking behavior can generalize across tasks**\
 _Kei Nishimura-Gasparian, Isaac Dunn, Henry Sleight, **Miles Turpin**, Evan Hubinger, Carson Denison, Ethan Perez_\
-Alignment Forum, 2024\
+Alignment Forum, 2024
 [[Alignment Forum]](https://www.alignmentforum.org/posts/Ge55vxEmKXunFFwoe/reward-hacking-behavior-can-generalize-across-tasks)
+- Precursor to [Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models](https://arxiv.org/pdf/2406.10162).
 
 ### Past Projects
 
