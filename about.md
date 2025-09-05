@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm a Research Scientist on the [SEAL team](https://scale.com/blog/safety-evaluations-alignment-lab) at Scale AI, where I work on [faithfulness of model-generated reasoning](https://arxiv.org/abs/2305.04388) and scalable oversight. We're hiring in [scalable oversight](https://scale.com/careers/4529095005), [agent robustness](https://scale.com/careers/4529091005), and [frontier risk evaluations](https://scale.com/careers/4529094005)! Before Scale, I was a Research Scientist in the [NYU Alignment Research Group](https://wp.nyu.edu/arg/) under Prof. Sam Bowman. Before that, I was an early employee at [Cohere](https://www.cohere.ai). I earned a Bachelor's in Machine Learning and Mathematics from Duke University.
+I'm a Research Engineer at Meta Superintelligence Labs where I work on safety and alignment evaluations for our frontier model effort. My primary research areas are in the [faithfulness of chain-of-thought reasoning](https://arxiv.org/abs/2305.04388) and scalable oversight.  Before MSL, I was a Research Scientist on the [SEAL team](https://scale.com/blog/safety-evaluations-alignment-lab) at Scale AI, a member of the [NYU Alignment Research Group](https://wp.nyu.edu/arg/) under Prof. Sam Bowman, and an early employee at [Cohere](https://www.cohere.ai). I earned a Bachelor's in Machine Learning and Mathematics from Duke University.
 
 ### Publications & Preprints
+
+**Teaching Models to Verbalize Reward Hacking in Chain-of-Thought Reasoning**\
+_**Miles Turpin**, Andy Arditi, Marvin Li, Joe Benton, Julian Michael_\
+ICML 2025, Workshop on Reliable and Responsible Foundation Models\
+[[arXiv]](https://arxiv.org/abs/2506.22777) [[Twitter thread]](https://x.com/milesaturpin/status/1944859053496349158)
 
 **Looking Inward: Language Models Can Learn About Themselves by Introspection**\
 _Felix J Binder, James Chua, Tomek Korbak, Henry Sleight, John Hughes, Robert Long, Ethan Perez, **Miles Turpin**, Owain Evans_\
